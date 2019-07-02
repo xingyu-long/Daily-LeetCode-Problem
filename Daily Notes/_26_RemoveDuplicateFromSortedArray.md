@@ -14,7 +14,7 @@ Given a sorted array *nums*, remove the duplicates [**in-place**](https://en.wik
 
 Do not allocate extra space for another array, you must do this by **modifying the input array in-place** with O(1) extra memory.
 
-示例数据
+## 示例数据
 
 ```
 Given nums = [1,1,2],

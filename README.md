@@ -14,6 +14,9 @@
 | No. 27   | Remove Element                         | Array  | 06/30/2019 (补06/23/2019) | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_27_RemoveElement.md) | Easy   |
 | No. 26   | Remove Duplicates from Sorted Array    | Array  | 06/30/2019 (补06/24/2019) | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_26_RemoveDuplicateFromSortedArray.md) | Easy   |
 | No. 80   | Remove Duplicates from Sorted Array II | Array  | 06/30/2019 (补06/25/2019) | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_80_RemoveDuplicateFromSortedArrayII.md) | Medium |
+| No.189   | Rotate array                           | Array  | 07/01/2019 (补06/26/2019) | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_189_RotateArray.md) | Easy   |
+| No.41    | First Missing Positive                 | Array  | 07/01/2019 (补06/27/2019) | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_41_FirstMissingPositive.md) | Hard   |
+| No.299   | Bulls and Cows                         | Array  | 07/02/2019 (补06/28/2019) | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_299_BullsAndCows.md) | Medium |
 
 
 
