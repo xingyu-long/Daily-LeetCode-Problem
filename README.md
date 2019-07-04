@@ -18,10 +18,15 @@
 | No.41    | First Missing Positive                 | Array  | 07/01/2019 (补06/27/2019) | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_41_FirstMissingPositive.md) | Hard   |
 | No.299   | Bulls and Cows                         | Array  | 07/02/2019 (补06/28/2019) | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_299_BullsAndCows.md) | Medium |
 | No.134   | Gas Station                            | Array  | 07/03/2019 (补06/29/2019) | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_134_GasStation.md) | Medium |
+| No.118   | Pascal's Triangle                      | Array  | 07/04/2019 (补6/30/2019)  | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_118_PascalsTriangle.md) | Easy   |
+| No.119   | Pascal's Triangle II                   | Array  | 07/04/2019 (补7/1/2019)   | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_119_PascalsTriangleII.md) | Easy   |
+| No.169   | Majority Element                       | Array  | 07/04/2019 (补7/2/2019)   | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_169_MajorityElement.md) | Easy   |
+| No.229   | Majority Element II                    | Array  | 07/04/2019 (补7/3/2019)   | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_229_MajorityElementII.md) | Medium |
+| No.243   | Shortest Word Distance                 | Array  | 07/04/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_243_ShortestWordDistance.md) | Easy   |
 
 
 
-11/30 (每天更新)
+21/30 (每天更新)
 
 **达到30天之后就公布该项目**
 
