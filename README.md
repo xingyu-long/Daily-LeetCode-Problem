@@ -23,6 +23,7 @@
 | No.169   | Majority Element                       | Array  | 07/04/2019 (补7/2/2019)   | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_169_MajorityElement.md) | Easy   |
 | No.229   | Majority Element II                    | Array  | 07/04/2019 (补7/3/2019)   | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_229_MajorityElementII.md) | Medium |
 | No.243   | Shortest Word Distance                 | Array  | 07/04/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_243_ShortestWordDistance.md) | Easy   |
+| No.217   | Contains Duplicate                     | Array  | 07/05/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_217_ContainsDuplicate.md) | Easy   |
 
 
 
