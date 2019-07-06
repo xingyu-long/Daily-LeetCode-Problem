@@ -24,10 +24,11 @@
 | No.229   | Majority Element II                    | Array  | 07/04/2019 (补7/3/2019)   | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_229_MajorityElementII.md) | Medium |
 | No.243   | Shortest Word Distance                 | Array  | 07/04/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_243_ShortestWordDistance.md) | Easy   |
 | No.217   | Contains Duplicate                     | Array  | 07/05/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_217_ContainsDuplicate.md) | Easy   |
+| No.219   | Contains Duplicate II                  | Array  | 07/06/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_219_ContainsDuplicateII.md) | Easy   |
 
 
 
-21/30 (每天更新)
+22/30 (每天更新)
 
 **达到30天之后就公布该项目**
 
