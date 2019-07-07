@@ -25,10 +25,11 @@
 | No.243   | Shortest Word Distance                 | Array  | 07/04/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_243_ShortestWordDistance.md) | Easy   |
 | No.217   | Contains Duplicate                     | Array  | 07/05/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_217_ContainsDuplicate.md) | Easy   |
 | No.219   | Contains Duplicate II                  | Array  | 07/06/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_219_ContainsDuplicateII.md) | Easy   |
+| No.55    | Jump Game                              | Array  | 07/07/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_55_JumpGame.md) | Medium |
 
 
 
-22/30 (每天更新)
+23/30 (每天更新)
 
 **达到30天之后就公布该项目**
 
