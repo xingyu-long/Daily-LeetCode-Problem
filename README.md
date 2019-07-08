@@ -26,10 +26,11 @@
 | No.217   | Contains Duplicate                     | Array  | 07/05/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_217_ContainsDuplicate.md) | Easy   |
 | No.219   | Contains Duplicate II                  | Array  | 07/06/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_219_ContainsDuplicateII.md) | Easy   |
 | No.55    | Jump Game                              | Array  | 07/07/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_55_JumpGame.md) | Medium |
+| No.122   | Best Time to Buy and Sell Stock II     | Array  | 07/08/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_122_BestTimetoBuyandSellStockII.md) | Easy   |
 
 
 
-23/30 (每天更新)
+24/30 (每天更新)
 
 **达到30天之后就公布该项目**
 
