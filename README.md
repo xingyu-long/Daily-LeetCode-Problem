@@ -27,10 +27,13 @@
 | No.219   | Contains Duplicate II                  | Array  | 07/06/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_219_ContainsDuplicateII.md) | Easy   |
 | No.55    | Jump Game                              | Array  | 07/07/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_55_JumpGame.md) | Medium |
 | No.122   | Best Time to Buy and Sell Stock II     | Array  | 07/08/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_122_BestTimetoBuyandSellStockII.md) | Easy   |
+| No.11    | Container With Most Water              | Array  | 07/10/2019 (补7/9/2019)   | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_11_ContainerWithMostWater.md) | Medium |
+| No.128   | Longest Consecutive Sequence           | Array  | 07/11/2019 (补7/10/2019)  | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_128_LongestConsecutiveSequence.md) | Hard   |
+| No.287   | Find the Duplicate Number              | Array  | 07/11/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_287_FindtheDuplicateNumber.md) | Medium |
 
 
 
-24/30 (每天更新)
+27/30 (每天更新)
 
 **达到30天之后就公布该项目**
 
