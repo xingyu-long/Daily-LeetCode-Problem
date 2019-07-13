@@ -1,5 +1,4 @@
-# 295. Find
-Median from Data Stream (07/12/2019) 
+# 295. Find Median from Data Stream (07/12/2019) 
 > 由于刷题习惯，题目均保持英文
 >
 > [LeetCode本文问题链接](https://leetcode.com/problems/find-median-from-data-stream)

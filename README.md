@@ -31,10 +31,11 @@
 | No.128   | Longest Consecutive Sequence           | Array          | 07/11/2019 (补7/10/2019)  | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_128_LongestConsecutiveSequence.md) | Hard   |
 | No.287   | Find the Duplicate Number              | Array          | 07/11/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_287_FindtheDuplicateNumber.md) | Medium |
 | No.295   | Find Median From Data Stream           | Priority Queue | 07/12/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_287_FindtheDuplicateNumber.md) | Hard   |
+| No.57    | Insert Interval                        | Array          | 07/13/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_57_InsertInterval.md) | Hard   |
 
 
 
-28/30 (每天更新)
+29/30 (每天更新)
 
 **达到30天之后就公布该项目**
 
