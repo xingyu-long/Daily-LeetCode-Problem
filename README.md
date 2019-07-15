@@ -32,10 +32,14 @@
 | No.287   | Find the Duplicate Number              | Array          | 07/11/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_287_FindtheDuplicateNumber.md) | Medium |
 | No.295   | Find Median From Data Stream           | Priority Queue | 07/12/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_287_FindtheDuplicateNumber.md) | Hard   |
 | No.57    | Insert Interval                        | Array          | 07/13/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_57_InsertInterval.md) | Hard   |
+| No.78    | Subsets                                | Backtracking   | 07/15/2019 (补7/14/2019)  | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_78_Subsets.md) | Medium |
+| No.90    | Subsets II                             | Backtracking   | 07/15/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_90_SubsetsII.md) | Medium |
 
 
 
-29/30 (每天更新)
+31 Updates (Daily update)
 
-**达到30天之后就公布该项目**
+Next goal:
+
+**ACHIEVE TWO MONTH UPDATES**
 
