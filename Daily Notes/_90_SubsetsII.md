@@ -11,7 +11,9 @@
 
 Given a collection of integers that might contain duplicates, **nums**, return all possible subsets (the power set).</br>
 
-**Note:** The solution set must not contain duplicate subsets.示例数据
+**Note:** The solution set must not contain duplicate subsets.
+
+## 示例数据
 
 ```
 Input: [1,2,2]
