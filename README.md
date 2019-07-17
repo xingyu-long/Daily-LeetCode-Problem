@@ -35,10 +35,11 @@
 | No.78    | Subsets                                | Backtracking   | 07/15/2019 (补7/14/2019)  | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_78_Subsets.md) | Medium |
 | No.90    | Subsets II                             | Backtracking   | 07/15/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_90_SubsetsII.md) | Medium |
 | No.387   | First Unique Character in a String     | String         | 07/16/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/_387_FirstUniqueCharacterInAString.md) | Easy   |
+| No.56    | Merge Intervals                        | Array          | 07/17/2019                | [跳转链接](https://github.com/halolong/Daily-LeetCode-Problem-With-Me/blob/master/Daily%20Notes/56_MergeIntervals.md) | Medium |
 
 
 
-32 ✨ Updates (Daily update)
+33 ✨ Updates (Daily update)
 
 Next goal:
 
